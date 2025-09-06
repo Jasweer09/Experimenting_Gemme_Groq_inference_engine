@@ -67,7 +67,7 @@ This is a **user-friendly Q&A chatbot** built with **Streamlit** that answers qu
 4. Type a question (e.g., “What’s the US population growth rate?”).
 5. Get the answer and see the document parts used!
 _Landing_UI_
-![Screen_shot](Landing_UI)
+![Screen_shot](Landing_UI.png)
 
 ---
 
